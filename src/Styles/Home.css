@@ -1,0 +1,24 @@
+
+body{
+height: 100vh;
+
+
+}
+.home{
+   display: flex;
+   justify-content: space-around;
+   
+}
+.hom h1{
+   background-color: gray;
+   text-align: center;
+   margin-top: 78px;
+   
+} 
+.home img{
+   border-radius: 20px;
+   
+}
+.title-head{
+   margin-top: 0px;
+}
